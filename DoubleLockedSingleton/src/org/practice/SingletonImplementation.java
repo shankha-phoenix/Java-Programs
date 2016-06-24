@@ -12,7 +12,9 @@ public class SingletonImplementation {
 		
 		Singleton singObj = Singleton.getInstance();
 		singObj.display();
-			
+		
+		SingletonEnum.INSTANCE.display();
+		
 	}
 
 }
