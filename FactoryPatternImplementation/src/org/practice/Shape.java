@@ -4,7 +4,7 @@
 package org.practice;
 
 /**
- * Program : 
+ * Program : Shape Interface
  * Author : Shankhadeep Ghosh
  * Email : shankhadeep.ghosh@gmail.com
  */
