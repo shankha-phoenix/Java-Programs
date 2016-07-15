@@ -3,8 +3,6 @@
  */
 package org.practice;
 
-import java.util.Arrays;
-
 /**
  * Program : Remove duplicates without SET using own sort
  * Author : Shankhadeep Ghosh
