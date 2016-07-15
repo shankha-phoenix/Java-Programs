@@ -14,6 +14,7 @@ public class SingletonImplementation {
 		singObj.display();
 		
 		SingletonEnum.INSTANCE.display();
+	
 		
 	}
 

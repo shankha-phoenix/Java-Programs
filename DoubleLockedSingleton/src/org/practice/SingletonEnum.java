@@ -1,10 +1,7 @@
-/**
- * 
- */
 package org.practice;
 
 /**
- * Program : 
+ * Program : Singleton Enum
  * Author : Shankhadeep Ghosh
  * Email : shankhadeep.ghosh@gmail.com
  */
