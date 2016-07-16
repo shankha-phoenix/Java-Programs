@@ -19,6 +19,7 @@ public class StringAsReference {
 	
 	public static String change(String x) {
 		x = "cd";
+		System.out.println(x);
 		return x;
 	}
 }
