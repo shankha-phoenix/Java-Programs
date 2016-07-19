@@ -4,7 +4,7 @@
 package org.practice;
 
 /**
- * Program : 
+ * Program : Class to test reflection
  * Author : Shankhadeep Ghosh
  * Email : shankhadeep.ghosh@gmail.com
  */
