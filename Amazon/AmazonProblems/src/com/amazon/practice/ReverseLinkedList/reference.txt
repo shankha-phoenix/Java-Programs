@@ -1,1 +1,2 @@
 Problem reference: https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1
+Company Reference : Paytm, Microsoft, Amazon, MakeMyTrip, Adobe, Accolite, VMWare, Snapdeal
