@@ -1,1 +1,2 @@
 Problem Reference : https://practice.geeksforgeeks.org/problems/k-largest-elements/0
+Company Reference : Walmart Labs, Microsoft, Amazon
