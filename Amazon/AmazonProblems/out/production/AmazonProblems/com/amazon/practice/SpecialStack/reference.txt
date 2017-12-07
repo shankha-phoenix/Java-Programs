@@ -1,0 +1,2 @@
+Problem reference : https://practice.geeksforgeeks.org/problems/special-stack/1
+Company reference : Amazon, VMWare, Paytm, Intuit, Adobe
